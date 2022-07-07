@@ -1,0 +1,49 @@
+[{
+        "id": 1,
+        "nombre": "Café Americano",
+        "valor": "$390,00",
+        "img": "http://www.khokau.com/wp-content/uploads/2022/03/4943946-300x300.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Café Mokka",
+        "valor": "370,00",
+        "img": "https://www.alalmacafe.com/wp-content/uploads/2020/05/CAF%C3%89-MOKA-300x300.png"
+    },
+    {
+        "id": 3,
+        "nombre": "Latte",
+        "valor": "420,00",
+        "img": "https://www.khokau.com/wp-content/uploads/2022/05/CAFE-LATTE-MACCHIATO-GRANDE-1-300x300.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Jugo de fruta",
+        "valor": "$280,00",
+        "img": "https://ourplantbasedworld.com/wp-content/uploads/2021/03/IMG_3058-300x300.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Tostado",
+        "valor": "$700,00",
+        "img": "https://beerlin.com.ar/wp-content/uploads/2020/08/WhatsApp-Image-2020-08-26-at-8.04.55-PM-300x300.jpeg"
+    },
+    {
+        "id": 6,
+        "nombre": "Porción de torta",
+        "valor": "580,00",
+        "img": "https://www.supermercedes.com.ar/trapani/wp-content/uploads/2021/10/rocher-indv-300x300.png"
+    },
+    {
+        "id": 7,
+        "nombre": "Muffins",
+        "valor": "$260,00",
+        "img": "https://bakeitwithlove.com/wp-content/uploads/2021/04/Protein-Powder-Chocolate-Banana-Muffins-sq-300x300.jpg"
+    },
+    {
+        "id": 8,
+        "nombre": "Croissant",
+        "valor": "$100,00",
+        "img": "https://www.gastronosfera.com/sites/default/files/styles/dos_columnas/public/field/image/croissants-slide.jpg?itok=6SnYjZXf"
+    }
+]
